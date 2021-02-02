@@ -1,14 +1,13 @@
   <div>
     <div align="center">
       <h1>
-        <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩&zwj;💻</g-emoji>
        Misael Guilhardes de Freitas
       </h1>
     </div>
      <div align="left">
       <h3>Hey, curious! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
       </h3>
-      <p>I'm Misael Guilhardes de Freitas,  Developer, Computer Science Student at Federal Institute of Education
+      <p>I'm Misael Guilhardes de Freitas, Full Stack JS Developer, Computer Science Student at Federal Institute of Education
         Science and Technology of Southeast Minas Gerais (IFSEMG)</p>
     </div>
     <div>
@@ -34,7 +33,10 @@
       <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript"/>
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
       <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native" />
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
       <img src="https://img.icons8.com/color/48/000000/android-os.png" title="Android Development" />
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
     </div>
     <div align="left">
