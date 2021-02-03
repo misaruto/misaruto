@@ -5,10 +5,8 @@
       </h1>
     </div>
      <div align="left">
-      <h3>Hey, curious! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
       </h3>
-      <p>I'm Misael Guilhardes de Freitas, Full Stack JS Developer, Computer Science Student at Federal Institute of Education
-        Science and Technology of Southeast Minas Gerais (IFSEMG)</p>
+      <p>I'm Misael Guilhardes de Freitas, Full Stack JS Developer, Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba Minas Gerais (IFSEMG)</p>
     </div>
     <div>
       <ul>
