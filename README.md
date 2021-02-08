@@ -11,14 +11,8 @@
     <div>
       <ul>
         <li>
-          <g-emoji class="g-emoji" alias="books"
-            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Studying:
+         Studying:
           JavaScript | React | React-Native | NodeJS;
-        </li>
-        <li>
-          <g-emoji class="g-emoji" alias="smile"
-            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Hobbies:
-          watch movies and series, listen music, and online games;
         </li>
       </ul>
     </div>
