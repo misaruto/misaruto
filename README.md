@@ -9,15 +9,21 @@
       <p>I'm Misael Guilhardes de Freitas, Full Stack JS Developer, Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba Minas Gerais (IFSEMG)</p>
     </div>
     <div>
-      <ul>
         <h3>Studying:</h3>
-        <li>
-          JavaScript | React | React-Native | NodeJS;
-        </li>
-        <li>
-          Java - Spring;
-        </li>
-      </ul>
+        <ul>
+            <li>
+                JavaScript/Typescript
+                <ol>
+                    <li>NodeJS</li> 
+                    <li>React</li>
+                    <li>NextJS</li>
+                    <li>React-Native</li>
+                </ol>
+            </li>
+            <li>
+                Java - Spring;
+            </li>
+        </ul>
     </div>
     <div align="left">
       <h2>Development Stack</h2>
