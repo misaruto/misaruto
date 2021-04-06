@@ -13,7 +13,7 @@
         <ul>
             <li>
                 JavaScript/Typescript
-                <ol>
+                <ol type="1">
                     <li>NodeJS</li> 
                     <li>React</li>
                     <li>NextJS</li>
