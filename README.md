@@ -10,9 +10,12 @@
     </div>
     <div>
       <ul>
+        <h3>Studying:</h3>
         <li>
-         Studying:
           JavaScript | React | React-Native | NodeJS;
+        </li>
+        <li>
+          Java - Spring;
         </li>
       </ul>
     </div>
