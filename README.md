@@ -61,12 +61,13 @@
           max-width:100%;">
       </a>
     </br>
+      <!--
       <div style="display: flex; align-items: center">
         <img src="https://img.icons8.com/ultraviolet/36/000000/download-resume.png" title="CV" />
         <a href="https://docs.google.com/presentation/d/1z8qyYw3Dyc7hzfKgsdhPQdc71DgRbfkarnSsKNP0NVw/edit?usp=sharing" target="_blank"
           style="text-decoration: none">Curriculum Vitae (PT-BR)
         </a>
       </div>
+        -->
     </div>
-
   </div>
