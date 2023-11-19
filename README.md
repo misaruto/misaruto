@@ -6,7 +6,7 @@
     </div>
      <div align="left">
       </h3>
-      <p>I'm Misael Guilhardes de Freitas, Full Stack JS Developer, Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba Minas Gerais (IFSEMG)</p>
+      <p>I'm Misael Guilhardes de Freitas, Full Stack JS Developer, Computer Science Student at Instituto Federal do Sudeste de Minas Gerais Campus Rio Pomba (IFSEMG)</p>
     </div>
     <div>
         <h3>Studying:</h3>
